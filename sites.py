@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 637acbf (update)
 import webbrowser as wb
 
 from speak import speak
@@ -19,6 +22,7 @@ def site(query):
             speak(f"opening {sites[0]}")
             wb.open(sites[1])
             break
+<<<<<<< HEAD
 =======
 import webbrowser as wb
 
@@ -41,3 +45,5 @@ def site(query):
             wb.open(sites[1])
             break
 >>>>>>> 14da02a (updated)
+=======
+>>>>>>> 637acbf (update)

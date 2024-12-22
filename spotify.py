@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 637acbf (update)
 import re
 import urllib
 import webbrowser
@@ -18,6 +21,7 @@ def ytmu():
     link = "https://www.youtube.com/watch?v=" + video_id[0]
     webbrowser.open_new(link)
     exit()
+<<<<<<< HEAD
 =======
 import re
 import urllib
@@ -39,3 +43,5 @@ def ytmu():
     webbrowser.open_new(link)
     exit()
 >>>>>>> 14da02a (updated)
+=======
+>>>>>>> 637acbf (update)

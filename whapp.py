@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 637acbf (update)
 import pywhatkit as pwt
 
 from speak import speak
@@ -20,6 +23,7 @@ def whatsapp():
         speak("error sending message")
         print(e)
         exit()
+<<<<<<< HEAD
 =======
 import pywhatkit as pwt
 
@@ -43,3 +47,5 @@ def whatsapp():
         print(e)
         exit()
 >>>>>>> 14da02a (updated)
+=======
+>>>>>>> 637acbf (update)

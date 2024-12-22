@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 637acbf (update)
 import os
 
 from speak import speak
@@ -10,6 +13,7 @@ def opencode():
     speak("opening v s code")
     os.startfile(codepath)
     exit()
+<<<<<<< HEAD
 =======
 import os
 
@@ -23,3 +27,5 @@ def opencode():
     os.startfile(codepath)
     exit()
 >>>>>>> 14da02a (updated)
+=======
+>>>>>>> 637acbf (update)

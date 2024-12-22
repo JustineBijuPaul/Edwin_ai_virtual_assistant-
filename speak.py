@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 637acbf (update)
 import datetime
 
 import pyttsx3 as tts
@@ -43,6 +46,7 @@ def wish_me(greet="How can i help you"):
     speak(greet)
 
 
+<<<<<<< HEAD
 =======
 import datetime
 
@@ -89,3 +93,5 @@ def wish_me(greet="How can i help you"):
 
 
 >>>>>>> 14da02a (updated)
+=======
+>>>>>>> 637acbf (update)
